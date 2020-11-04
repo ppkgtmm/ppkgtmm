@@ -1,5 +1,5 @@
-#### Hi there :blush: 
-I am Pinky Gautam, currently studying Computer Engineeing
+#### Hi there
+Just an ordinary Computer Engineeing student learning everyday
 
 
 <!--
