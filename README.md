@@ -1,5 +1,5 @@
 #### Hi there
-just an ordinary computer engineeing student who is currently trying something new
+just an ordinary person who is currently trying something new
 
 
 <!--
