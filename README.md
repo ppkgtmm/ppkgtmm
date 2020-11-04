@@ -1,5 +1,5 @@
-## Hi there :blush: 
-#### I am Pinky Gautam 
+# Hi there :blush: 
+### I am Pinky Gautam 
 * currently studying Computer Engineeing
 
 <!--
