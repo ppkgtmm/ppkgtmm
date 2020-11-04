@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there
+I am Pinky Gautam a Computer Engineeing student at KMUTT
 
 <!--
 **ppkgtmm/ppkgtmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
