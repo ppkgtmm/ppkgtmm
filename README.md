@@ -1,5 +1,5 @@
 #### Hi there
-Just an ordinary Computer Engineeing student learning everyday
+just an ordinary Computer Engineeing student currently trying something new
 
 
 <!--
