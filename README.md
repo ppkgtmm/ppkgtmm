@@ -1,5 +1,5 @@
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=radical"
+alt="Pinky's github stats" />
 
 <!--
 **ppkgtmm/ppkgtmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
