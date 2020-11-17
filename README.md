@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=radical"
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=radical"
 alt="Pinky's github stats" />
 
 <!--
