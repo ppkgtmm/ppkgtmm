@@ -1,10 +1,18 @@
-Hi there !
+<a href="https://www.linkedin.com/in/pinky-gautam/">
+  <img align="left" alt="Pinky's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/d2yhq96derd1cm9b3lw87o90t">
+  <img align="left" alt="Pinky's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<br>
 
-I'm Pinky Gautam currently a senior student at KMUTT 🙂 
+### Hi there :slightly_smiling_face:
 
-Looking for back-end engineer, data engineer, data scientist job opportunities in Thailand or remote opportunities 😐
+:pencil: I'm Pinky Gautam currently a senior student at KMUTT 
 
-I'm an expat living in Thailand.
+:watermelon: Looking for back-end engineer, data engineer, data scientist job opportunities in Thailand or remote opportunities
+
+:whale: I'm an expat living in Thailand.
 
 <img  width="500" src="https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=dark" />
 
