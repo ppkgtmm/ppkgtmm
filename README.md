@@ -8,12 +8,10 @@
 
 ### Hi there :slightly_smiling_face:
 
-:pencil: I'm Pinky Gautam currently a senior student at KMUTT 
+:pencil: I'm Pinky Gautam from India currently a senior student at KMUTT
 
 :watermelon: Looking for back-end engineer, data engineer, data scientist job opportunities in Thailand or remote opportunities
 
-:whale: I'm an expat living in Thailand.
-
-<img  width="500" src="https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=dark" />
+<img  width="500" src="https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=gotham" />
 
 <img  width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppkgtmm&layout=compact&theme=dark" />
