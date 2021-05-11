@@ -2,7 +2,7 @@ Hi there !
 
 I'm Pinky Gautam currently a senior student at KMUTT 🙂 
 
-Looking for software engineer, data engineer, data scientist job opportunities 😐
+Looking for back-end engineer, data engineer, data scientist job opportunities in Thailand or remote opportunities 😐
 
 I'm an expat living in Thailand.
 
