@@ -8,7 +8,7 @@
 
 ### Hi there :slightly_smiling_face:
 
-:pencil: I'm Pinky Gautam from India currently a senior student at KMUTT
+:pencil: I'm Pinky Gautam from India
 
 :watermelon: Looking for back-end engineer, data engineer, data scientist job opportunities in Thailand or remote opportunities
 
