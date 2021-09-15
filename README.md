@@ -10,7 +10,7 @@
 
 :pencil: I'm Pinky Gautam from India
 
-:watermelon: Looking for back-end engineer, data engineer, data scientist job opportunities in Thailand or remote opportunities
+:watermelon: Looking for back-end engineer, data scientist, data analyst, devops job opportunities in Thailand or remote opportunities
 
 
 <img  width="500" src="https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=gotham" />
