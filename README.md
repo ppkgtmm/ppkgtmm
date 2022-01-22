@@ -1,6 +1,6 @@
 ### Hi there :slightly_smiling_face:
 
-I'm Pinky Gautam from India, currently looking for data scientist, data analyst, back-end engineer job opportunities in Thailand or remote opportunities
+I'm Pinky Gautam from India, currently looking for data scientist, data analyst, back-end engineer job opportunities in Thailand
 
 
 <img  width="500" src="https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=gotham" />
