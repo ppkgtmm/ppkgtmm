@@ -7,6 +7,8 @@
 
 <!-- #### Connect with me : -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=github_dark)
+<table>
+<td> <img width="550" src="https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=github_dark" alt="Github stats"/> </td>
+<td> <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppkgtmm&theme=github_dark&layout=compact" alt="Top Langs"/> </td>
+</table>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppkgtmm&theme=github_dark&layout=compact" alt="Top Langs"/>
