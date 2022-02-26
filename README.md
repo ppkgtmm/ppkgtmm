@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ppkgtmm&style=for-the-badge)
 ### Hi there :slightly_smiling_face:
 
 I'm Pinky Gautam from India, currently looking for data scientist, data analyst, back-end engineer job opportunities in Thailand
