@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ppkgtmm&style=flat)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ppkgtmm&style=flat)
 ## Hellooo, Pinky here 👋🏻
 
 #### About me :
@@ -7,9 +7,9 @@
 
 <!-- #### Connect with me : -->
 
-![](https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=gotham)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=vue)
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppkgtmm&theme=gotham&layout=compact" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppkgtmm&theme=vue&layout=compact" alt="Top Langs"/>
 
 **Experienced with:**  
 <p>
