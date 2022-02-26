@@ -7,6 +7,6 @@
 
 <!-- #### Connect with me : -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=gotham)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=github_dark)
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppkgtmm&theme=gotham&layout=compact" alt="Top Langs"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppkgtmm&theme=github_dark&layout=compact" alt="Top Langs"/>
