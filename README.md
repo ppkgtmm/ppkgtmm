@@ -1,10 +1,15 @@
-![](https://komarev.com/ghpvc/?username=ppkgtmm&style=for-the-badge)
-### Hi there :slightly_smiling_face:
+![](https://komarev.com/ghpvc/?username=ppkgtmm&style=flat)
+## Hellooo, Pinky here 👋🏻
 
-I'm Pinky Gautam from India, currently looking for data scientist, data analyst, back-end engineer job opportunities in Thailand
+#### About me :
+- :seedling: &nbsp;Currently my focus is on learning data science and ML <br />
+- 👩🏻‍💻 &nbsp;&nbsp;I also look forward to collaborate on projects that match my passion <br />
 
+<!-- #### Connect with me : -->
 
-<img  width="500" src="https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=gotham" />
+![](https://github-readme-stats.vercel.app/api?username=ppkgtmm&show_icons=true&theme=gotham)
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppkgtmm&theme=gotham&layout=compact" />
 
 **Experienced with:**  
 <p>
