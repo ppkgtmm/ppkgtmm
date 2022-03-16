@@ -1,8 +1,10 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ppkgtmm&style=flat)
 
-## Hellooo, Pinky here 👋🏻
+## Hi there ! 🙋🏻‍♀️
 
-#### About me :
+- ✨ I'm Pinky, a computer engineering graduate and 📊 data science enthusiast
+
+### About me :
 - :seedling: &nbsp;Currently my focus is on learning data science and ML <br />
 - 👩🏻‍💻 &nbsp;&nbsp;I also look forward to collaborate on projects that goes with my passion <br />
 
