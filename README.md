@@ -2,7 +2,7 @@
 
 # Hi there ! 🙋🏻‍♀️
 
-## About me
+### About me :
 - ✨ &nbsp;I'm Pinky, a computer engineering graduate and data science enthusiast
 - 🏙️ &nbsp;Working as a back-end developer for a consulting company in Bangkok, Thailand 
 - :seedling: &nbsp;Current focus is to learn data science and machine learning <br />
