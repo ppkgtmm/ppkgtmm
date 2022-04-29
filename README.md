@@ -9,6 +9,6 @@ I'm Pinky Gautam, back-end developer who enjoys finding answers of given questio
 - 👩🏻‍💻 &nbsp;&nbsp;Look forward to collaborate on projects that goes with my passion
 
 ### Technical experience :
-- 🌐 &nbsp;Web development: Laravel, Nest JS, Fast API, React JS, Docker
-- 👩🏻‍🔬 &nbsp; Data science: Python, Pandas, Sklearn, Seaborn, PySpark
-- ⚙️ &nbsp;Data engineering: SQL, MongoDB, Airflow
+- 🌐 &nbsp;Web development : Laravel, Nest JS, Fast API, React JS, Docker
+- 👩🏻‍🔬 &nbsp; Data science : Python, Pandas, Sklearn, Seaborn, PySpark
+- ⚙️ &nbsp;Data engineering : SQL, MongoDB, Airflow
