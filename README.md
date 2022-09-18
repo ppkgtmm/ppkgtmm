@@ -9,7 +9,7 @@ I'm Pinky Gautam, a data engineer in prop tech
 - 👩🏻‍💻 &nbsp;&nbsp;Looking forward to collaborate on projects meaningful to people
 
 
-### Technical experience :
+### Hands-on tools :
 - 🌐 &nbsp;Web development : Laravel, Nest JS, Fast API, React JS, Docker
 - 👩🏻‍🔬 &nbsp; Data science : Python, Pandas, Sklearn, Seaborn, PySpark
 - ⚙️ &nbsp;Data engineering : SQL, MongoDB, Airflow, BigQuery
