@@ -1,7 +1,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ppkgtmm&style=flat)
 
 # Hi there 🙋🏻‍♀️
-I'm Pinky, currently a data engineer and formerly a back-end developer of consulting firm
+I'm Pinky Gautam, currently working as a data engineer in prop tech
 
 ### About me :
 - 🏙️ &nbsp;Computer Engineering student graduated in 2021 from Bangkok, Thailand
