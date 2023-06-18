@@ -4,9 +4,9 @@
 
  </div>
  
-- I'm Pinky, a data engineer in proptech where I create and maintain data pipelines to do ETL and ELT
-- During my previous role as a backend developer, I got to prepare data for analysis and product recommendation
-- There I knew the importance of data preparation in insights discovery and decision making resulting in transition to data engineering
+- I'm Pinky, a data engineer currently creating and maintaining pipelines for ETL and ELT of data
+- During my previous role as a developer, I got to prepare data for analysis and product recommendation
+- Knowing the importance of data preparation in insights discovery and decision making influenced me in transition to data engineering
 
 <br />
 
