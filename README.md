@@ -1,6 +1,6 @@
 # Hi there 👋🏻 
 
-I am data engineer at propertyguru with ~2 years of work experience in IT industry. I used to develop APIs for clients of a thai software vendor startup. My interests span across data engineering, data science, automation and technology
+I am data engineer at propertyguru with around 2 years of work experience in IT industry. I used to develop APIs for clients of a software vendor startup in thailand
 
 <br />
 <div align="center">
