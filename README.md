@@ -1,8 +1,15 @@
-### Hey there 👋🏻 
+<div align="center">
 
-I am Pinky, a data engineer in proptech with around 2 years of work experience in IT industry. I used to develop APIs at a software vendor startup in thailand where I found how data can guide decision making creating values
+# Hello 👋
+
+ </div>
+ 
+- I'm Pinky, a data engineer in proptech creating and maintaining data pipelines for ETL and ELT
+- I used to develop APIs for a software vendor in thailand where I got to prepare data for analysis and product recommendation which made me realize how data can guide in decision making creating values
 
 <br />
+
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0c65c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinky-gautam/)
