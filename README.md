@@ -4,8 +4,9 @@
 
  </div>
  
-- I'm Pinky, a data engineer at propertyguru where I create and maintain data pipelines to do ETL and ELT
-- Previously, I developed APIs at sennalabs where I got to prepare data for analysis and product recommendation
+- I'm Pinky, a data engineer in proptech where I create and maintain data pipelines to do ETL and ELT
+- During my previous role as a backend developer, I got to prepare data for analysis and product recommendation
+- There I knew the importance of data preparation in insights discovery and decision making resulting in transition to data engineering
 
 <br />
 
