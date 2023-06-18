@@ -1,6 +1,6 @@
-Hey there 👋🏻 
+### Hey there 👋🏻 
 
-I am Pinky, a data engineer in proptech with around 2 years of work experience in IT industry. I used to develop APIs for clients of a software vendor startup in thailand
+I am Pinky, a data engineer in proptech with around 2 years of work experience in IT industry. I used to develop APIs at a software vendor startup in thailand where I found how data can guide decision making creating values
 
 <br />
 <div align="center">
