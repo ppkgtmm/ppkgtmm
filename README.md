@@ -1,13 +1,10 @@
-<!-- <div align="center"> -->
-
-# Hello 👋
-
-<!--  </div> -->
+### Hello 👋
  
-- I'm Pinky, a data engineer in proptech with 2 years of experience delivering works in IT industry
-- My interests include data engineering, data science, business intelligence, automation and technology
+- I am Pinky, a data engineer in proptech with 2 years of experience delivering works in IT industry
+- web development (mostly backend) and machine learning are what I also worked on in the past 
+- my interest includes data engineering, data science, business intelligence, automation and technology
 
-<!-- <br /> -->
+<br />
 
 
 <div align="center">
