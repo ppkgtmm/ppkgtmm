@@ -9,7 +9,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/_Linkedin_-0c65c2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinky-gautam/)
-[![Website](https://img.shields.io/badge/_Website_-ea4435?style=for-the-badge&logo=githubsponsors&logoColor=white)]()
-[![Spotify](https://img.shields.io/badge/_Spotify_-1ccc5b?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0ZzFiccqVn5KuW87IhIuSm?si=30138dd2aa87403b) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0c65c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinky-gautam/)
+[![Email](https://img.shields.io/badge/email-ea4435?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinky.gtm@outlook.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ccc5b?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0ZzFiccqVn5KuW87IhIuSm?si=30138dd2aa87403b)
+[![Website](https://img.shields.io/badge/Website-7c3aed?style=for-the-badge&logo=githubsponsors&logoColor=white)]()
+ 
 </div>
