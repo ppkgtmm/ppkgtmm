@@ -1,10 +1,6 @@
-# Hi there 👋🏻
+# Hi there 👋🏻 
 
-I'm Pinky and below are some facts about me
-
-- data engineer in proptech with around 2 years of work experience in IT industry
-- former backend developer at a software vendor startup in bangkok, thailand
-- interested in data engineering, business intelligence, automation and technology
+I am data engineer at propertyguru with ~2 years of work experience in IT industry. I used to develop APIs for clients of a software vendor startup in bangkok. My interests include data engineering, data science, automation and technology
 
 <br />
 <div align="center">
