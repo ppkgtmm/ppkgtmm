@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 # Hello 👋
 
- </div>
+<!--  </div> -->
  
 - I'm Pinky, a data engineer currently creating and maintaining pipelines for ETL and ELT of data
 - During my previous role as a developer, I got to prepare data for analysis and product recommendation
