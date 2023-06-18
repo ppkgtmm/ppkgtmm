@@ -6,7 +6,7 @@
  
 - I'm Pinky, a data engineer currently creating and maintaining pipelines for ETL and ELT of data
 - During my previous role as a developer, I got to prepare data for analysis and product recommendation
-- Realizing importance of data preparation in insights discovery and decision making has influenced me transitioning into data engineering
+- Realizing importance of data preparation in data-driven decision making has influenced me transitioning into data engineering
 
 <br />
 
