@@ -1,6 +1,6 @@
 # Hi there 👋🏻 
 
-I am data engineer at propertyguru with around 2 years of work experience in IT industry. I used to develop APIs for clients of a software vendor startup in thailand
+I am data engineer at propertyguru with around 2 years of work experience in IT industry. I used to develop APIs for clients of a software vendor startup in bangkok, thailand
 
 <br />
 <div align="center">
