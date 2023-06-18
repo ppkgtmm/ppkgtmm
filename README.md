@@ -4,8 +4,8 @@
 
  </div>
  
-- I'm Pinky, a data engineer in proptech company where i create and maintain data pipelines for ETL and ELT
-- I used to develop APIs for a software vendor where I got to prepare data for analysis and product recommendation
+- I'm Pinky, a data engineer at propertyguru where I create and maintain data pipelines to do ETL and ELT
+- Previously, I developed APIs at sennalabs where I got to prepare data for analysis and product recommendation
 
 <br />
 
