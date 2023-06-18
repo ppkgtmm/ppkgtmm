@@ -5,7 +5,7 @@
  </div>
  
 - I'm Pinky, a data engineer in proptech creating and maintaining data pipelines for ETL and ELT
-- I used to develop APIs for a software vendor in thailand where I got to prepare data for analysis and product recommendation which made me realize how data can guide in decision making creating values
+- I used to develop APIs for a software vendor in thailand where I got to prepare data for analysis and product recommendation
 
 <br />
 
