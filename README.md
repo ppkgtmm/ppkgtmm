@@ -1,9 +1,12 @@
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ppkgtmm&style=for-the-badge) -->
+# Hi there 👋🏻
 
-![](https://views.igorkowalczyk.vercel.app/api/badge/ppkgtmm?label=profile+views&style=for-the-badge&color=000&labelColor=000)
-### Hi there 👋
+👧🏻 About me : 
+- data engineer in proptech with around 2 years of work experience in IT industry
+- former backend developer at a software vendor startup in bangkok, thailand
+- interested in data engineering, business intelligence, automation and technology
 
-I am Pinky, currently a data engineer in proptech with around 2 years of experience working within IT industry
+🛠️ Tools and Technologies :
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0c65c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinky-gautam/)
 [![Email](https://img.shields.io/badge/email-ea4435?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinky.gtm@outlook.com)
