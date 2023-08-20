@@ -1,2 +1,2 @@
 ## Hi 👋🏻 I'm Pinky Gautam
-data engineer at [PropertyGuru Group](https://www.propertygurugroup.com/) and former developer 👩🏻‍💻 currently residing in Bangkok, Thailand 🇹🇭
+a data engineer and former developer who is passionate about collection, storage and processing of data to facilitate informed decision making and value creation all with readable and maintainable code
