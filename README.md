@@ -1,4 +1,4 @@
-## Hi 👋🏻 I'm Pinky Gautam
+# Hi 👋🏻 I'm Pinky Gautam
 
 as a data engineer from development background, I'm eager to learn and implement highly maintainable solutions that facilitate informed decision making and create positive impacts
 
