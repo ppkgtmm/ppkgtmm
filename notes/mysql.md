@@ -48,22 +48,22 @@
 ## constraints
 ensure accuracy, completeness and quality of data
 - column level constraints : apply to single column in table
-  - NOT NULL : prevent NULL values
+  - `NOT NULL` : prevent NULL values
   
     ```sql
     column_name data_type NOT NULL
     ```
-  - DEFAULT : provide default value for insertion
+  - `DEFAULT` : provide default value for insertion
     
     ```sql
     column_name data_type DEFAULT default_value
     ```
-  - AUTO_INCREMENT : generate sequence for numeric column
+  - `AUTO_INCREMENT` : generate sequence for numeric column
     
     ```sql
     column_name data_type AUTO_INCREMENT
     ```
-  - COMMENT : add descriptive text for documentation
+  - `COMMENT` : add descriptive text for documentation
     
     ```sql
     column_name data_type COMMENT ‘comment string’
@@ -71,22 +71,22 @@ ensure accuracy, completeness and quality of data
 
 
 - table level : can involve multiple columns in table and are namable
-  - CHECK : validate data with custom logic
+  - `CHECK` : validate data with custom logic
   
     ```sql
     [CONSTRAINT [constraint_name]] CHECK (condition)
     ```
-  - UNIQUE : enforce uniqueness
+  - `UNIQUE` : enforce uniqueness
     
     ```sql
     [CONSTRAINT [constraint_name]] UNIQUE (column1, ...)
     ```
-  - PRIMARY KEY : uniquely identifies rows to prevent duplicate data
+  - `PRIMARY KEY` : uniquely identifies rows to prevent duplicate data
     
     ```sql
     [CONSTRAINT [constraint_name]] PRIMARY KEY (column1, ...)
     ```
-  - FOREIGN KEY : prevent reference to non-existent data  
+  - `FOREIGN KEY` : prevent reference to non-existent data  
     
     ```sql
     [CONSTRAINT [constraint_name]] FOREIGN KEY (column1, ...)
@@ -96,7 +96,7 @@ ensure accuracy, completeness and quality of data
     ```
 
 ### reference options
-`FOREIGN KEY `reference options when parent record is updated or deleted
+`FOREIGN KEY` reference options when parent record is updated or deleted
 - `CASCADE` : update. or delete child record according to parent
 - `NO ACTION` or `RESTRICT` : restrict operation (default)
 - `SET NULL` : set foreign key column as null for child record
