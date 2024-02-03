@@ -20,3 +20,5 @@ collection of information which are broadly categorized into
 - scales horizontally by distributing data across multiple servers
 
 **:sparkles: use when** : data format is unpredictable or availability is a concern 
+
+remarks : databases are managed with help of software called database management system
