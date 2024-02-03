@@ -10,7 +10,7 @@ collection of information which are broadly categorized into
 - include rules or constraints to ensure data integrity
 - inherently supports relationship between records within or across tables
 
-**:sparkles: use when** : data integrity and consistency is non negotiable or deferrable
+**:sparkles: use when** : data integrity and consistency is neither negotiable nor deferrable
 
 
 ## non-relational database
