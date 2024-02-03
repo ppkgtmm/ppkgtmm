@@ -1,3 +1,3 @@
-- [**data**](./data.md)
-- [**database**](./database.md)
-- [**programming language**](./language.md)
+- [data](./data.md)
+- [database](./database.md)
+- [programming language](./language.md)
