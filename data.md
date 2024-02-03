@@ -8,7 +8,7 @@ data can be categorized based on arrangement and format into
 - each row is a record with fixed set of columns
 - each column is an attribute or field with fixed data type
 
-**:tada: use when** : data query and analysis are frequent or data integrity is non-negotiable
+**:sparkles: use when** : data query and analysis are frequent or data integrity is non-negotiable
 
 ## semi-structured data
 
@@ -22,6 +22,6 @@ data can be categorized based on arrangement and format into
 - each data item can have different set of information
 - information format can vary between data items
 
-**:tada: use when** : data format is unpredictable or storage and processing power is not a concern
+**:sparkles: use when** : data format is unpredictable or storage and processing power is not a concern
 
 remarks : data integrity is opposite of data corruption or data errors
