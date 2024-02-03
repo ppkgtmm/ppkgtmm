@@ -8,6 +8,8 @@ data can be categorized based on arrangement and format into
 - each row is a record with fixed set of columns
 - each column is an attribute or field with fixed data type
 
+**:tada: use when** : data query and analysis are frequent or data integrity is non-negotiable
+
 ## semi-structured data
 
 - data is organized in specific way e.g. key-value pair, document, graph, column family
@@ -20,11 +22,6 @@ data can be categorized based on arrangement and format into
 - each data item can have different set of information
 - information format can vary between data items
 
-## comparison
-
-- easiest to query and analyze : structured data
-- least data corruption or errors : structured data
-- flexibility of format : unstructured data
-- resource requirement for processing : unstructured data
+**:tada: use when** : data format is unpredictable or storage and processing power is not a concern
 
 remarks : data integrity is opposite of data corruption or data errors
