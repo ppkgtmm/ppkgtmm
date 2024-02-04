@@ -5,7 +5,7 @@ instructs computer to perform specific tasks. programming languages can be broad
 <table>
 <thead>
 <tr>
-<th width="max-content" align="left"> category</th>
+<th align="left"> category</th>
 <th width="500px" align="left">meaning</th>
 </tr>
 </thead>
