@@ -11,7 +11,7 @@ table {
 instructs computer to perform specific tasks. programming languages can be broadly categorized as
 
 <div width="100%">
-<table width="inherit">
+<table>
   <tr>
     <th>category</th>
     <th>meaning</th>
