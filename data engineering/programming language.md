@@ -6,7 +6,7 @@ instructs computer to perform specific tasks. programming languages can be broad
 <thead>
 <tr>
 <th width="max-content" align="left"> category</th>
-<th width="100%" align="left">meaning</th>
+<th width="500px" align="left">meaning</th>
 </tr>
 </thead>
 <tbody>
