@@ -5,12 +5,12 @@ instructs computer to perform specific tasks. programming languages can be broad
 <table>
 <thead>
 <tr>
-<th width="500px"> category</th>
-<th width="500px">meaning</th>
+<th align="left"> category</th>
+<th width="1000px" align="left">meaning</th>
 </tr>
 </thead>
 <tbody>
-<tr width="500px">
+<tr>
 <td>
 domain-specific language
 </td>
@@ -18,7 +18,7 @@ domain-specific language
 refer to languages that are specialized to a particular area
 </td>
 </tr>
-<tr width="500px">
+<tr>
 <td>
 general-purpose language
 </td>
