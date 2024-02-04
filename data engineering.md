@@ -1,6 +1,6 @@
 # :ribbon: data engineering
 
-:gem: <a href="./data%20engineering/data.md">data</a>  <br>
-:gem: <a href="./data%20engineering/database.md">database</a>  <br>
+- **[data](./data%20engineering/data.md")**
+- **[database](./data%20engineering/database.md)**
 
 <!-- :gem: [programming language](./data%20engineering/programming%20language.md) <br> -->
