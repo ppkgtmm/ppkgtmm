@@ -1,12 +1,21 @@
 # programming language
 
-instructs computer to perform specific tasks. programming languages can be broadly categorized  as
+instructs computer to perform specific tasks. programming languages can be broadly categorized as
 
-
-| category                 | characteristic                         |
-| :----------------------- | :------------------------------------- |
-| domain-specific language | specialized to a particular area       |
-| general-purpose language | offer broader range of functionalities |
+<table width="100%">
+  <tr>
+    <th>category</th>
+    <th>meaning</th>
+  </tr>
+  <tr>
+    <td>domain-specific language</td>
+    <td>refer to languages that are specialized to a particular area</td>
+  </tr>
+  <tr>
+    <td>general-purpose language</td>
+    <td>include languages that offer broader range of functionalities</td>
+  </tr>
+</table>
 
 
 :open_umbrella: [sql](./programming%20language/sql.md) <br>
