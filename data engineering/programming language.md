@@ -2,7 +2,8 @@
 
 instructs computer to perform specific tasks. programming languages can be broadly categorized as
 
-<table width="100%">
+<div width="100%">
+<table>
   <tr>
     <th>category</th>
     <th>meaning</th>
@@ -16,6 +17,7 @@ instructs computer to perform specific tasks. programming languages can be broad
     <td>include languages that offer broader range of functionalities</td>
   </tr>
 </table>
+</div>
 
 
 :open_umbrella: [sql](./programming%20language/sql.md) <br>
