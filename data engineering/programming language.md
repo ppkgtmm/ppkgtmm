@@ -1,17 +1,9 @@
-<head>
-<style>
-table {
-    width: 100% !important;
-}
-</style>
-</head>
-
 # programming language
 
 instructs computer to perform specific tasks. programming languages can be broadly categorized as
 
 <div width="100%">
-<table>
+<table  width="100% !important">
   <tr>
     <th>category</th>
     <th>meaning</th>
