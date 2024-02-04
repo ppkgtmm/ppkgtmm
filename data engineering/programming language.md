@@ -5,8 +5,8 @@ instructs computer to perform specific tasks. programming languages can be broad
 <table>
 <thead>
 <tr>
-<th width="350px" align="left"> category</th>
-<th width="650px" align="left">meaning</th>
+<th width="500px" align="left"> category</th>
+<th width="500px" align="left">meaning</th>
 </tr>
 </thead>
 <tbody>
