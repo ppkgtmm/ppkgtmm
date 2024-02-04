@@ -2,7 +2,7 @@
 
 instructs computer to perform specific tasks. programming languages can be broadly categorized as
 
-<div width="100% !important">
+<div width="100%">
 
 | category                 | meaning                                                       |
 | :----------------------- | :------------------------------------------------------------ |
