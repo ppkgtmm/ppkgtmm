@@ -26,6 +26,14 @@ additional notes : data integrity ensures accuracy, completeness, consistency an
 | property | description | benefit |
 | --- | --- | --- |
 | atomicity | transaction is treated as a single unit. either all operations within a transaction succeed or none do | prevents partial completion and data inconsistency |
-| consistency | data integrity is maintained based on predefined rules or constraints. all transactions must adhere to defined constraints | prevents data corruption and unexpected changes |
+| consistency | data integrity is maintained based on predefined rules or constraints to which all transactions must adhere | prevents data corruption and unexpected changes |
 | isolation | concurrent transactions appear to execute one at a time. changes made by one transaction are invisible to others until committed | prevents interference and inconsistent data views |
-| durability | changes from committed transactions are permanent and survive system failures. when transaction is committed, its result is written to persistent storage e.g. disk | guarantees data consistency even after outages |
+| durability | changes from committed transactions are permanent and survive system failures as they are written to persistent storage e.g. disk | guarantees data consistency even after outages |
+
+💎 isolation level implementation vary across DBMS. however, following contains information about standard isolation level
+| level | description | negative consequence |
+| --- | --- | --- |
+| read uncommitted | a transaction can read uncommitted changes from other transactions and other transactions can apply additional changes or roll back changes already read | incorrect view of data or dirty read |
+| read committed | a transaction can only read committed changes from other transactions. other transactions can update rows being referred and commit in between | updates in data retrieved by identical queries or non-repeatable read |
+| repeatable read | a transaction sees no updates in data retrieved by identical queries. other transactions can insert or delete rows within filter scope of query | difference in row count for identical queries or phantom read |
+| serializable | a transaction sees same data and row count for identical queries. concurrent operations on same set of rows are executed serially | decrease in performance |
