@@ -21,3 +21,11 @@ additional notes : data integrity ensures accuracy, completeness, consistency an
 | --- | --- | --- |
 | relational database | holds structured data in tabular model. uses SQL as standard query language. scales vertically by adding more resources to a single server. include rules or constraints to ensure data integrity. inherently supports relationship between records within or across tables | data integrity is non-negotiable or data consistency is not deferrable |
 | non-relational database | holds semi-structured data in variety of models. query language depends on database type. scales horizontally by distributing data across multiple servers | data format is unpredictable or availability is a concern |
+
+💎 **ACID** contains 4 key properties that ensure data integrity and reliability in relational databases especially when dealing with concurrent access and modifications
+| property | description | benefit |
+| --- | --- | --- |
+| atomicity | transaction is treated as a single unit. either all operations within a transaction succeed or none do | prevents partial completion and data inconsistency |
+| consistency | data integrity is maintained based on predefined rules or constraints. all transactions must adhere to defined constraints | prevents data corruption and unexpected changes |
+| isolation | concurrent transactions appear to execute one at a time. changes made by one transaction are invisible to others until committed | prevents interference and inconsistent data views |
+| durability | changes from committed transactions are permanent and survive system failures. when transaction is committed, its result is written to persistent storage e.g. disk | guarantees data consistency even after outages |
